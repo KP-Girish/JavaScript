@@ -1,0 +1,7 @@
+//what is MDN?
+//MDN is a comprehensive resource for developers, providing documentation, tutorials, and references for web technologies such as HTML, CSS, and JavaScript. It is maintained by Mozilla and the developer community.
+//MDN stands for Mozilla Developer Network. It is an open-source platform that offers extensive documentation and learning resources for web developers. MDN provides information on various web technologies, including HTML, CSS, JavaScript, and more. It is widely used by developers to learn, reference, and stay updated with the latest web standards and best practices.
+//MDN is known for its high-quality content, clear explanations, and practical examples. It covers a wide range of topics, from beginner-level tutorials to advanced concepts, making it a valuable resource for developers of all skill levels.
+//MDN also includes interactive examples, code snippets, and a community forum where developers can ask questions and share knowledge. It is regularly updated to reflect the latest changes in web technologies and standards.
+//Overall, MDN is an essential resource for web developers looking to enhance their skills and stay informed about the ever-evolving landscape of web development.
+//MDN is a valuable resource for learning and referencing web technologies, including JavaScript, HTML, and CSS
