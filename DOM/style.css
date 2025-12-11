@@ -1,0 +1,10 @@
+.par {
+    color : blue;
+    font-size : 20px;
+    text-align: center;
+}
+
+.newstyle {
+    background-color : gray;
+    padding: auto;
+}
